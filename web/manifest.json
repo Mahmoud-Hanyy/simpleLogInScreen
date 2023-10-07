@@ -1,6 +1,6 @@
 {
-    "name": "hogo",
-    "short_name": "hogo",
+    "name": "login",
+    "short_name": "login",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
